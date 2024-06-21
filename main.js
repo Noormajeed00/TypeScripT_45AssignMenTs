@@ -34,24 +34,23 @@ console.log(16 / 2);
 let favoriteNumber = 4;
 console.log(`My favourite number is ${favoriteNumber}.`);
 // Task 10
-author: [Noor, Shaikh];
-date: [Friday, febuary, 16, 2024];
-from;
-task;
-9;
-printing;
-my;
-favourite;
-number.
-;
-let favouriteNumber = 4;
-revealing;
-my;
-favorite;
-number in a;
-message;
-formate.
-    console.log(`my favourite number is ${favouriteNumber}.`);
+//author: [Noor, Shaikh];
+//date: [Friday, febuary, 16, 2024];
+//from;
+//task 9;
+// printing;
+// my;
+// favourite;
+// number.
+// ;
+// let favouriteNumber = 4;
+// revealing;
+// my;
+// favorite;
+// number in a;
+// message;
+// formate.
+//     console.log(`my favourite number is ${favouriteNumber}.`);
 //task 11
 let names = ["noor", "hassan", "bilal", "noor"];
 console.log(names);
